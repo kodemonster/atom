@@ -5,11 +5,7 @@
 
 ### Description of the Change
 
-<!--
-
-We must be able to understand the purpose of your change from this description. If we can't get a good idea of the benefits of the change from the description here, the pull request may be closed at the maintainers' discretion.
-
--->
+I have changed a pragraph in README.MD, In my opinion there was grammer mistake.
 
 ### Release Notes
 
